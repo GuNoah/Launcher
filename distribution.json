@@ -13,7 +13,7 @@
       "description": "",
       "icon": "",
       "version": "1.0.0",
-      "address": "서버주소:25565",
+      "address": "203.229.146.129:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "",
